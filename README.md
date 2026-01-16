@@ -1,6 +1,6 @@
 # WeakLearner
 
-## [Operating Systems Concepts](https://github.com/mehuljain7/All/blob/main/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf)
+## [Database System Concepts](https://github.com/mehuljain7/All/blob/main/Silberschatz-Database%20System%20Concepts%206th%20ed.pdf)
 
 Chapter 1 Introduction
 - 1.1 Database-System Applications
